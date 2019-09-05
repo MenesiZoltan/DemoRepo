@@ -12,6 +12,7 @@ namespace DemoApp
         {
             Console.WriteLine("HelloWorld!");
             Console.WriteLine("Its a whole new World!");
+            Class1.SaySomething("This is my magnificent Demo");
         }
     }
 }
